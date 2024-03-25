@@ -33,9 +33,7 @@ Vragen aan mijn teamleden:
 
 ## Hulp vragen
  - Kunnen jullie mij helpen met het “opbouwen” van het document met de juiste mappen en benamingen?
- 
 
-- -
 ## Week 2
 
 Deze week heb ik ook weer aan de kleine opdrachtjes van Github gewerkt. Ik merk dat het me vorige week ietsjes beter af ging en dat de moed me in de schoenen zakt. Ik kan me niet concentreren tijdens de lessen dus volgende week tijdens het reces ga ik een aantal dagen inplannen dat ik me volledig focus op het inhalen van de informatie die ik deze week gemist hebt.
@@ -59,7 +57,6 @@ Vragen aan mijn teamleden:
 
 - aan docenten: denken jullie dat het nog zin voor mij heeft om door te gaan?
 
-- -
 ## Week 3
 
 Deze week heb ik ook weer aan de kleine opdrachtjes van Github gewerkt. Maar heb ik ook al meer nagedacht over hoe we aan de slag zullen gaan met onze Rijksmuseum app. Zo heb ik samen met Michelle al een aantal schetsen gemaakt.
@@ -83,8 +80,6 @@ Vragen aan mijn teamleden:
 
 - Waarschijnlijk letterlijk alles... Alleen html en css kan ik een beetje.
 
-
-- -
 ## Week 4
 
 Vorige week heb ik met het feedback moment een breakdown’tje gehad... 
@@ -110,8 +105,6 @@ Vragen aan mijn teamleden:
 
 - Geen op dit moment
 
-- - 
-
 ## Week 5
 
 Vrijdag is het echt heel goed gegaan, hierdoor heb ik echt helemaal mijn hoop terug!
@@ -134,7 +127,6 @@ Vragen aan mijn teamleden:
 ### Hulp vragen
 - Kunnen jullie mij helpen met het function gedeelte wat ik wil toevoegen in JavaScript?
 
-- - 
 
 ## Week 6
 
