@@ -34,6 +34,7 @@ Vragen aan mijn teamleden:
 ## Hulp vragen
  - Kunnen jullie mij helpen met het “opbouwen” van het document met de juiste mappen en benamingen?
 
+
 ## Week 2
 
 Deze week heb ik ook weer aan de kleine opdrachtjes van Github gewerkt. Ik merk dat het me vorige week ietsjes beter af ging en dat de moed me in de schoenen zakt. Ik kan me niet concentreren tijdens de lessen dus volgende week tijdens het reces ga ik een aantal dagen inplannen dat ik me volledig focus op het inhalen van de informatie die ik deze week gemist hebt.
@@ -57,6 +58,7 @@ Vragen aan mijn teamleden:
 
 - aan docenten: denken jullie dat het nog zin voor mij heeft om door te gaan?
 
+
 ## Week 3
 
 Deze week heb ik ook weer aan de kleine opdrachtjes van Github gewerkt. Maar heb ik ook al meer nagedacht over hoe we aan de slag zullen gaan met onze Rijksmuseum app. Zo heb ik samen met Michelle al een aantal schetsen gemaakt.
@@ -79,6 +81,7 @@ Vragen aan mijn teamleden:
 ### Hulp vragen
 
 - Waarschijnlijk letterlijk alles... Alleen html en css kan ik een beetje.
+
 
 ## Week 4
 
@@ -104,6 +107,7 @@ Vragen aan mijn teamleden:
 ### Hulp vragen
 
 - Geen op dit moment
+
 
 ## Week 5
 
@@ -151,4 +155,28 @@ Vragen aan mijn teamleden:
 ### Hulp vragen
 
 - Kunnen jullie mij helpen met de progressie bar zodra het nodig is?
+
+
+## Week 7
+
+Maandag was ik niet aanwezig in de les doordat we ons moesten inschrijven voor de minor, en ik zou het niet redden om dat te doen en daarna nog naar school te gaan omdat ik vanuit Limburg zou moeten komen.
+Dinsdag heb ik hard gewerkt en is mijn code af! We hebben met ons groepje plannen gemaakt over de deadline. En op donderdag zijn we alle onderdelen aan elkaar aan het koppelen en zorgen we dat de website een geheel wordt.
+
+### Product
+
+Ik heb de vraag over de Skittles gestyled. De overige afbeeldingen worden minder zichtbaar (30% doorzichtig) wanneer er een antwoord wordt gegeven. En de ‘volgende’ button wordt pas zichtbaar wanneer er een antwoord is gegeven, hierdoor kan een vraag niet meer overgeslagen worden. 
+
+### Proces
+
+Nu gaan we er met het groepje voor zorgen dat alle styling op iedere pagina hetzelfde is, en gaan we er voor zorgen dat de website een geheel wordt en aan elkaar word gekoppeld.
+
+### Feedback vragen
+
+Vragen aan mijn teamleden:
+-
+
+### Hulp vragen
+
+-
+
 
