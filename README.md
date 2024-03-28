@@ -171,8 +171,6 @@ Ik heb de vraag over de Skittles gestyled. De overige afbeeldingen worden minder
 Nu gaan we er met het groepje voor zorgen dat alle styling op iedere pagina hetzelfde is, en gaan we er voor zorgen dat de website een geheel wordt en aan elkaar word gekoppeld.
 
 ### Feedback vragen
-
-Vragen aan mijn teamleden:
 -
 
 ### Hulp vragen
