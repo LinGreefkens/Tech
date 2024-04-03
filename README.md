@@ -178,3 +178,26 @@ Nu gaan we er met het groepje voor zorgen dat alle styling op iedere pagina hetz
 -
 
 
+## Week 8
+
+Deze week was ik dinsdag en woensdag aanwezig op school, vrijdag had ik helaas een afspraak dus kon ik niet aanwezig zijn.
+Maar op zich maakte het niet veel uit, want mijn onderdeel was woensdag begin van de les al af. 
+
+### Product
+
+Deze week heb ik de laatste puntjes op de i gezet van de homepage, de pagina waar je de quiz kan starten. 
+Verder kun je nu op de pagina ook navigeren naar de zoek-pagina en de account-pagina.
+
+### Proces
+
+Nu zorgt Kim nog dat onze website 1 geheel gaat worden en dat de website straks echt werkt.
+Ik ga nog even goed mijn eigen code doornemen waardoor ik straks tijdens het mondeling ook goed uit mijn woorden kom wanneer ik mijn code moet uitleggen.
+
+### Feedback vragen
+-
+
+### Hulp vragen
+
+-
+
+
